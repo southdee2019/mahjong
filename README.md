@@ -1,0 +1,2 @@
+# mahjong
+The mahjong app
