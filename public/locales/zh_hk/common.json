@@ -1,0 +1,18 @@
+{
+  "btn-yes": "好的",
+  "btn-no": "不",
+  "btn-close": "離開",
+  "btn-cancel": "取消",
+  "btn-edit": "修改",
+  "btn-back": "返回",
+  "btn-backhome": "回主頁",
+  "btn-channel": "我的頻道",
+  "btn-instagram": "我的IG",
+  "placeholder-search": "關鍵字搜尋 ...",
+  "success-title": "完成",
+  "create-item-title": "建立{{item}}",
+  "update-item-title": "更新{{item}}",
+  "delete-item-title": "刪除{{item}}",
+  "confirm-delete-statment": "確認刪除{{item}}?",
+  "greeting-statement": "你好, {{name}}"
+}

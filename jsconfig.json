@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/components/*": [
+        "components/*"
+      ],
+      "@/db/*": [
+        "db/*"
+      ],
+      "@/utils/*": [
+        "utils/*"
+      ],
+      "@/store/*": [
+        "store/*"
+      ],
+      "@/hooks/*": [
+        "hooks/*"
+      ],
+      "@/middlewares/*": [
+        "middlewares/*"
+      ]
+    }
+  }
+}
